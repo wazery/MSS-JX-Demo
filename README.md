@@ -11,7 +11,7 @@ Example Jenkins X application based on [@jstrachan devoxxrocks app](https://gith
 
 ```
 jx create cluster eks --region eu-central-1 \
- --cluster-name jxdemo \
+ --cluster-name jxdemoo \
  --default-environment-prefix jxdemo \
  --node-type c5.2xlarge \
  --nodes 1 \
